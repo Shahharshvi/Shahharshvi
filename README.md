@@ -62,13 +62,14 @@
   <a href="https://discordapp.com/users/928905783897362432" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="36" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/?authuser=shahharshviwork@gmail.com" target="_blank">
+  <a href="mailto:shahharshviwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="36" alt="gmail logo"  />
+  </a>
   </a>
   <a href="https://www.linkedin.com/in/harshvi-shah-49268a235/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="36" alt="linkedin logo"  />
   </a>
-  <a href="[https://leetcode.com/https://leetcode.com/u/Harshvi/](https://leetcode.com/u/Harshvi/)" target="_blank">
+  <a href="https://leetcode.com/u/Harshvi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" style="margin-bottom: 4px;" height="36px" target="_blank" alt="leetcode logo">
   </a>
 </div>

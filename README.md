@@ -1,6 +1,6 @@
 
 <img width="90%" height="90%" src="https://github.com/Shahharshvi/Shahharshvi/blob/main/github_banner.png" alt="my banner">
-<h1>💻 My Skills</h1>
+<h1>💻 My Skills💻</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
   <img width="21" />
@@ -48,7 +48,7 @@
 </div>
 
 
-<h1>📊 Github Status</h1>
+<h1>📊 Github Status📊 </h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahharshvi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Shahharshvi&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -57,7 +57,7 @@
 </div>
 
 <br><br>
-<h1>👥 Connect With Me</h1>
+<h1>👥 Connect With Me 👥</h1>
 <div align="center">
   <a href="https://discordapp.com/users/928905783897362432" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="36" alt="discord logo"  />
@@ -73,6 +73,18 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" style="margin-bottom: 4px;" height="36px" target="_blank" alt="leetcode logo">
   </a>
 </div>
+
+
+<br><br>
+<h1>🌟Coding Profiles🌟</h1>
+<div align="center">
+  <a href="https://leetcode.com/u/Harshvi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" style="margin-bottom: 4px;" height="36px" target="_blank" alt="leetcode logo">
+  </a>
+  <a href="https://www.hackerrank.com/profile/shahharshvi2003"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="36px" target="_blank">
+  </a>
+</div>
+
 
 
 

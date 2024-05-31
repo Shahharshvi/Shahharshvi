@@ -69,9 +69,9 @@
   <a href="https://www.linkedin.com/in/harshvi-shah-49268a235/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/u/Harshvi/" target="_blank">
+<!--   <a href="https://leetcode.com/u/Harshvi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" style="margin-bottom: 4px;" height="36px" target="_blank" alt="leetcode logo">
-  </a>
+  </a> -->
 </div>
 
 
